@@ -1,4 +1,4 @@
 # PAT_A&B_cpp
 PAT平台地址https://pintia.cn/problem-sets?tab=0        
 A(34/155)      
-B(34/95)
+B(36/95)
